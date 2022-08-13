@@ -21,7 +21,16 @@ In this project, we are building the back-end of an e-commerce website. We devel
 - dotenv package 
 - Insomnia 
 
+## Installation 
+
+- Add .env file with your DB username and password.
+- Add database to MySQL.
+- Start with npm run seed and then npm start to see API routes in Insomnia.
+
 ## Walkthrough Video
 
-[Walkthrough Vide]()
+[Walkthrough Video](https://www.loom.com/share/5495d29a197444a08f504b22aaf315f1)
 
+## Ongoing Work
+
+- Double checking POST, PUT & DELETE ROUTES.
